@@ -1,0 +1,82 @@
+{
+  "scan_version": "1.0.0",
+  "scan_time": "2026-06-22T13:40:33.648781",
+  "macro": {
+    "timestamp": "2026-06-22T13:40:33.648798",
+    "market_state": {
+      "sh_index": {},
+      "sz_index": {},
+      "cy_index": {},
+      "kc_index": {}
+    },
+    "kronos_signal": null,
+    "risk_level": "neutral",
+    "leading_sectors": []
+  },
+  "meso": {
+    "timestamp": "2026-06-22T13:40:33.656090",
+    "watch_pool": [
+      "300285",
+      "600549",
+      "002859",
+      "605376",
+      "000737",
+      "000923",
+      "301511",
+      "603527",
+      "002364",
+      "002733",
+      "301217",
+      "301013",
+      "301566",
+      "002171",
+      "002130",
+      "600577",
+      "002851",
+      "002335",
+      "002484",
+      "002536",
+      "603979",
+      "601212",
+      "000636",
+      "300408",
+      "688126",
+      "603663",
+      "603738",
+      "603650",
+      "300460",
+      "002544"
+    ],
+    "user_profile": {
+      "interests": [
+        "北交所",
+        "MLCC",
+        "深海科技",
+        "半导体",
+        "新材料"
+      ],
+      "positions": [],
+      "stage": "unknown"
+    },
+    "system_state": {
+      "last_watch_scan": "unknown",
+      "pending_events": 0,
+      "high_elasticity_today": 0
+    },
+    "pending_items": []
+  },
+  "micro": {
+    "timestamp": "2026-06-22T13:40:33.657443",
+    "input_type": "general_chat",
+    "keywords": [],
+    "sentiment": "neutral",
+    "urgency": "normal",
+    "related_to_watch_pool": false,
+    "related_to_positions": false
+  },
+  "global_assessment": {
+    "relevance_level": "low",
+    "reason": "",
+    "action_required": false
+  }
+}

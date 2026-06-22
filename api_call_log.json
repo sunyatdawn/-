@@ -1,0 +1,62 @@
+{
+  "version": "1.0.0",
+  "daily_logs": {
+    "2026-06-22": {
+      "total": 8,
+      "by_category": {
+        "search": 3,
+        "finance": 5
+      },
+      "calls": [
+        {
+          "time": "2026-06-22T11:46:02.626825",
+          "tool": "kimi_search",
+          "category": "search",
+          "details": "MLCC产业链分析"
+        },
+        {
+          "time": "2026-06-22T11:46:02.626996",
+          "tool": "kimi_search",
+          "category": "search",
+          "details": "北交所标的扫描"
+        },
+        {
+          "time": "2026-06-22T11:46:02.627150",
+          "tool": "kimi_finance",
+          "category": "finance",
+          "details": "查询688126价格"
+        },
+        {
+          "time": "2026-06-22T11:46:02.628254",
+          "tool": "kimi_finance",
+          "category": "finance",
+          "details": "查询603663价格"
+        },
+        {
+          "time": "2026-06-22T11:46:02.628987",
+          "tool": "kimi_finance",
+          "category": "finance",
+          "details": "查询603738价格"
+        },
+        {
+          "time": "2026-06-22T11:46:02.629776",
+          "tool": "web_fetch",
+          "category": "search",
+          "details": "获取产业报告"
+        },
+        {
+          "time": "2026-06-22T13:24:31.333175",
+          "tool": "kimi_finance",
+          "category": "finance",
+          "details": "测试价格查询"
+        },
+        {
+          "time": "2026-06-22T13:39:48.314628",
+          "tool": "kimi_finance",
+          "category": "finance",
+          "details": "测试价格查询"
+        }
+      ]
+    }
+  }
+}

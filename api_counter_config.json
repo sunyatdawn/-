@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "description": "API调用计数器配置",
+  "daily_limits": {
+    "search": 80,
+    "finance": 30,
+    "web": 20,
+    "other": 20
+  },
+  "limit_definitions": {
+    "search": ["kimi_search", "kimi_fetch", "web_fetch", "browser"],
+    "finance": ["kimi_finance", "kimi_datasource_call"],
+    "web": ["web_fetch", "kimi_fetch"],
+    "other": ["image", "pdf", "tts"]
+  },
+  "warning_threshold": 0.8,
+  "emergency_threshold": 0.95,
+  "reset_hour": 0
+}

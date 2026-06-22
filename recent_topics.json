@@ -1,0 +1,24 @@
+{
+  "version": "1.0.0",
+  "updated": "2026-06-22T11:26:00+08:00",
+  "description": "最近话题追踪。从最近对话自动提取，用于流形距离评估。",
+  "topics": [
+    "全局思维",
+    "Phase 3",
+    "势函数",
+    "流形距离",
+    "自适应执行",
+    "名称映射",
+    "MLCC",
+    "沪硅产业",
+    "固态电池",
+    "北交所",
+    "chokepoint",
+    "白毛框架",
+    "产业链图谱",
+    "Kronos信号"
+  ],
+  "source": "memory/heartbeat-state.json + 最近对话提取",
+  "max_topics": 15,
+  "ttl_hours": 48
+}
